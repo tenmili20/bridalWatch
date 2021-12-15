@@ -1,0 +1,120 @@
+header {
+    height: 100px;
+    background-color: bisque;
+    padding: 0 30px;
+}
+
+header h1{
+    float: left;
+    line-height: 100px;
+}
+
+.main-menu {
+    float: right;
+    line-height: 100px;
+}
+
+.top-contents {
+    height: 510px;
+    background-color:darkgrey;
+    text-align: center;
+    padding-top: 165px;
+}
+
+.middle-contents {
+    height: 351px;
+}
+
+.middle-contents i{
+    float: right;
+}
+
+.select {
+    width: 516px;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: 0 auto;
+    height: 224px;
+    padding-top: 50px;
+    margin-top: 110px;
+}
+
+.select-back {
+    margin: 7px 17px 0 0;
+}
+
+.select-btn {
+    height: 43px;
+    width: 188px;
+    background-color: crimson;
+    border: solid;
+    margin-top: 33px;
+    line-height: 43px;
+    display: inline-block;
+    border-radius: 12px;
+    text-decoration: none;
+}
+
+.output-contents {
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 125px;
+}
+
+
+.bottom-contents {
+    height: 600px;
+    text-align: center;
+}
+
+.watches {
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.watch img {
+    width: 200px;
+    height: 200px;
+    display: inline-block;    
+}
+
+.watch {
+    border: solid;
+    margin: 10px 30px 0 0;
+    width: 378px;
+    text-align: center;
+    height: 430px;
+    padding: 22px 10px;
+}
+
+.explain {
+    padding: 30px 0 50px 0;
+
+}
+
+.prevNext {
+    padding: 0 30px;
+    font-weight: bold;
+}
+
+.prev {
+    float: left;
+}
+
+.next {
+    float: right;
+}
+
+
+footer {
+    height: 150px;
+    background-color: chocolate;
+    padding: 30px 30px;
+}
+
+footer li{
+    display: inline;
+    margin: 0 20px;
+}
